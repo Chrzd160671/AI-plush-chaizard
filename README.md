@@ -7,7 +7,7 @@
 ## 1. 成品概念圖
 > （請使用 ChatGPT / Midjourney 生成一張「帶有輪子且外觀有絨毛布料的可愛機器人」圖片，上傳至 github 的 assets 資料夾，並將路徑替換於下方）[cite: 2]
 
-![AI Guardian 成品想像圖](./assets/product_image.png) 
+![AI Guardian 成品想像圖](./assets/product_image.jfif) 
 
 ## 2. 核心功能特色
 * **視覺推理與尋物**：利用 AMB82-mini 攝影機擷取環境影像，交由 Gemma 模型進行視覺辨識，可執行如「幫我找背包」等語義指令[cite: 1]。
