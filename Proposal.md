@@ -8,7 +8,7 @@
 
 ## AI 成品與架構示意
 
-![AI 合成成品示意](assets/product-concept.png)
+![AI 合成成品示意](assets/Rotom_image.jfif)
 
 此圖為外觀概念，不是實拍成品。第一版使用外接電腦顯示文字與表情，箱內顯示配置需另行選型。
 
